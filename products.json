@@ -1,0 +1,85 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "img": "/img-1.jpg",
+         "name": "GreenWipe Flushables",
+         "ingredients": ["Water", "Aloe Barbadensis Leaf Juice", "Tocopheryl Acetate", "Sodium Benzoate"]
+      },
+      {
+         "id": 2,
+         "img": "/img-2.jpg",
+         "name": "EcoSoft Flushable Tissue",
+         "ingredients": ["Water", "Sodium Chloride", "Propylene Glycol", "Cocamidopropyl Betaine", "Methylisothiazolinone"]
+      },
+      {
+         "id": 3,
+         "img": "/img-3.jpg",
+         "name": "PureNature Cleansing Cloths",
+         "ingredients": ["Water", "Glycerin", "Chamomilla Recutita Flower Extract", "Phenoxyethanol", "Methylparaben"]
+      },
+      {
+         "id": 4,
+         "img": "/img-4.webp",
+         "name": "AquaFresh Hygiene Wipes",
+         "ingredients": ["Water", "Polysorbate 20", "Disodium EDTA", "Sodium Benzoate", "Citric Acid"]
+      },
+      {
+         "id": 5,
+         "img": "/img-5.jpg",
+         "name": "BioWipe EcoPads",
+         "ingredients": ["Water", "Aloe Vera Extract", "Vitamin E", "Disodium Cocoamphodiacetate", "Propylparaben"]
+      },
+      {
+         "id": 6,
+         "img": "/img-6.jpg",
+         "name": "NatureCleanse Soft Wipes",
+         "ingredients": ["Water", "Cucumber Extract", "Green Tea Extract", "Disodium EDTA", "Methylchloroisothiazolinone"]
+      },
+      {
+         "id": 7,
+         "img": "/img-7.jpg",
+         "name": "EcoPure Natural Wipes",
+         "ingredients": ["Water", "Bamboo Extract", "Hydrolyzed Jojoba Esters", "Decyl Glucoside", "Sodium Benzoate"]
+      },
+      {
+         "id": 8,
+         "img": "/img-8.png",
+         "name": "GentleTouch Flushable Cloths",
+         "ingredients": ["Water", "Witch Hazel Extract", "Glycerin", "Phenoxyethanol", "Ethylhexylglycerin"]
+      },
+
+      {
+         "id": 9,
+         "img": "/img-9.jpeg",
+         "name": "PurelySoft Eco Cloths",
+         "ingredients": ["Water", "Rosemary Extract", "Cocamidopropyl PG-Dimonium Chloride Phosphate", "Phenoxyethanol", "Methylparaben"]
+      }
+   ],
+   "harmful_ingredients": [
+      {
+         "name": "Methylisothiazolinone",
+         "description": "Methylisothiazolinone is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+      },
+      {
+         "name": "Methylparaben",
+         "description": "Methylparaben is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+      },
+      {
+         "name": "Propylparaben",
+         "description": "Propylparaben is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+      },
+      {
+         "name": "Disodium EDTA",
+         "description": "Disodium EDTA is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+      },
+      {
+         "name": "Phenoxyethanol",
+         "description": "Phenoxyethanol is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+      },
+      {
+         "name": "Methylchloroisothiazolinone",
+         "description": "Description for Methylchloroisothiazolinone"
+      }
+   ]
+}

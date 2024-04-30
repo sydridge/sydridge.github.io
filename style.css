@@ -1,0 +1,321 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.main-header {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.text-logo {
+    font-size: 40px;
+    font-weight: 700;
+    color: #111;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-size: 16px;
+    color: #111;
+}
+
+.hero-section {
+    background-image: linear-gradient(to top, #0000008f, #0000009a), url(./img/WEBSITE_HERO_IMAGE_2-09_1000x1000.webp);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.search input {
+    flex-shrink: 0;
+    flex: 1;
+    padding: 0 10px;
+    outline: none;
+    border: none;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: transparent;
+}
+
+.search button {
+    width: 100px;
+    height: 100%;
+    background-color: #06766b;
+    color: #eee;
+    border: none;
+    outline: no;
+}
+
+.search button svg {
+    width: 20px;
+}
+
+.search-section {
+    margin-top: -80px;
+}
+
+.hero-box {
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, .25);
+
+}
+
+.hero-box h1 {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.hero-box .search {
+    display: flex;
+    height: 52px;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid #06766b !important;
+}
+
+.fact-section {
+    padding: 50px 0;
+    background-image: linear-gradient(to top, #2d5e24c0, #295f21b7), url(./img/website_greens_3.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.fact-section figure {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.fact-section figure img {
+    width: 100%;
+}
+
+.fact-box ul li,
+#environmental-impact ul li {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.product-details-section {
+    padding: 40px 0;
+    background: #d5e7d2;
+    margin-top: -130px;
+    padding-top: 155px;
+
+}
+
+.product-details {
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #06766b;
+    text-align: center;
+}
+
+.product-details img {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.product-details h3 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.product-details p {
+    font-size: 16px;
+    color: #2e2d2d;
+}
+
+.product-details p span {
+    font-weight: 700;
+    color: red;
+}
+
+.product-details .pure {
+    color: #06766b;
+}
+
+
+#environmental-impact {
+    padding: 50px 0;
+    background-color: #d5e7d2;
+}
+
+.fact-box h2,
+.fact-box ul li {
+    color: #eee;
+}
+
+#environmental-impact h2,
+.fact-box h2 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+#environmental-impact p {
+    font-size: 16px;
+    color: #2e2d2d;
+}
+
+#environmental-impact figure {
+    padding: 40px;
+}
+
+#environmental-impact figure img {
+    margin: 0 auto;
+    display: block;
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    height: 100%;
+    object-fit: cover;
+}
+
+.sub-header {
+    background-color: #06766b;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.sub-header h1 {
+    font-size: 44px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.about-section {
+
+    padding: 50px 0;
+}
+
+.about-section figure img {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+}
+
+.about-section p {
+    font-size: 16px;
+    color: #202020;
+    line-height: 1.5;
+}
+
+.about-section h3 {
+    font-size: 34px;
+    font-weight: 700;
+    color: #111;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 700px) and (min-width: 300px) {
+    .hero-box h1 {
+        font-size: 24px;
+    }
+
+    .hero-box {
+        padding: 20px 15px;
+    }
+
+    .hero-section {
+        height: 30vh;
+    }
+
+    #environmental-impact h2,
+    .fact-box h2,
+    .text-logo {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    ul li,
+    p {
+        text-align: center;
+    }
+
+    .search button {
+        width: fit-content;
+        padding: 0 10px;
+    }
+
+    .fact-section figure {
+        margin-bottom: 20px;
+    }
+
+    .product-details h3 {
+        font-size: 18px;
+    }
+
+    .product-details img {
+        width: 80%;
+    }
+
+    .popup-content {
+        width: 98% !important;
+        padding: 20px 10px !important;
+    }
+
+    .popup-content p {
+        text-align: left !important;
+    }
+}
+
+/* Modal styles */
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.popup-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 30%;
+    border-radius: 6px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
