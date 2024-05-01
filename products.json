@@ -3,83 +3,201 @@
       {
          "id": 1,
          "img": "/img-1.jpg",
-         "name": "GreenWipe Flushables",
-         "ingredients": ["Water", "Aloe Barbadensis Leaf Juice", "Tocopheryl Acetate", "Sodium Benzoate"]
+         "name": "Nolla Flushable Wipes",
+         "ingredients": ["Water, Sodium Benzoate, Polysorbate 20, Capryly Glycol, Ethylhexylglycerin, Dipropylene Glycol, Glycerin, Hexylene Glycol, Citric Acid, Cyclodextrin, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate"]
       },
       {
          "id": 2,
          "img": "/img-2.jpg",
-         "name": "EcoSoft Flushable Tissue",
-         "ingredients": ["Water", "Sodium Chloride", "Propylene Glycol", "Cocamidopropyl Betaine", "Methylisothiazolinone"]
+         "name": "Stall Mates Wipes",
+         "ingredients": ["Water, Polysorbate 20, Cucumis Sativus (Cucumber) Fruit Extract, Althaea Officinalis Root Extract, Avena Sativa (Oat) Kernel Extract, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Tocopheryl Acetate, Phenoxyethanol, Caprylyl Glycol"]
       },
       {
          "id": 3,
          "img": "/img-3.jpg",
-         "name": "PureNature Cleansing Cloths",
-         "ingredients": ["Water", "Glycerin", "Chamomilla Recutita Flower Extract", "Phenoxyethanol", "Methylparaben"]
+         "name": "Nice 'N Clean Flushable Wipes",
+         "ingredients": ["Water, Dipropylene Glycol, Alcohol Denat., Glycereth-26, Calcium Chloride, Phenoxyethanol, Sodium Benzoate, Polysorbate 20, Fragrance, Lactic Acid, Tetrasodium Glutamate Diacetate, Caprylic/Capric Triglyceride, Sodium Lactate, Coco-Glucoside, Glyceryl Oleate, Tocopheryl Acetate, Sodium Bicarbonate, Aloe Barbadensis Leaf Juice"]
       },
       {
          "id": 4,
          "img": "/img-4.webp",
-         "name": "AquaFresh Hygiene Wipes",
-         "ingredients": ["Water", "Polysorbate 20", "Disodium EDTA", "Sodium Benzoate", "Citric Acid"]
+         "name": "Eco by Naty Flushable Wipes",
+         "ingredients": ["Aqua/water, Gluconolacton, Chamomila Recutita Flower Water, Citric Acid, Propanediol, Caprylyl/Capryl Glucoside, Sodium Benzoate, Calcium Gluconate, Potassium Sorbate"]
       },
       {
          "id": 5,
          "img": "/img-5.jpg",
-         "name": "BioWipe EcoPads",
-         "ingredients": ["Water", "Aloe Vera Extract", "Vitamin E", "Disodium Cocoamphodiacetate", "Propylparaben"]
+         "name": "365 Flushable Wipes by Whole Foods",
+         "ingredients": ["Water, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate, Caprylyl/Capryl Glucoside, Glycerin, Benzyl Alcohol, Benzoic Acid, Dehydroacetic Acid, Citric Acid, Sodium Hydroxide, Sodium Chloride, Sodium Carbonate, Potassium Sorbate, Fragrance"]
       },
       {
          "id": 6,
          "img": "/img-6.jpg",
-         "name": "NatureCleanse Soft Wipes",
-         "ingredients": ["Water", "Cucumber Extract", "Green Tea Extract", "Disodium EDTA", "Methylchloroisothiazolinone"]
+         "name": "Cottonelle Fresh Feel Flushable Wipes",
+         "ingredients": ["Water, Sodium Chloride, Butoxy PEG-4 PG-Amodimethicone, Polysorbate 20, Caprylyl Glycol, Sodium Benzoate, Coco-Betaine, Malic Acid, Fragrance/Parfum, Sodium Citrate"]
       },
       {
          "id": 7,
          "img": "/img-7.jpg",
-         "name": "EcoPure Natural Wipes",
-         "ingredients": ["Water", "Bamboo Extract", "Hydrolyzed Jojoba Esters", "Decyl Glucoside", "Sodium Benzoate"]
+         "name": "Amazon Basics Flushable Wipes",
+         "ingredients": ["Water, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Disodium Cocoamphodiacetate, Citric Acid, Disodium Phosphate, Disodium EDTA, Phenoxyethanol, Sodium Benzoate"]
       },
       {
          "id": 8,
          "img": "/img-8.png",
-         "name": "GentleTouch Flushable Cloths",
-         "ingredients": ["Water", "Witch Hazel Extract", "Glycerin", "Phenoxyethanol", "Ethylhexylglycerin"]
+         "name": "Charmin Flushable Wipes",
+         "ingredients": ["Water, Citric Acid, Peg-40 Hydrogenated Castor Oil, Sodium Citrate, Sorbitan Caprylate, Sodium Benzoate, Disodium Edta, Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Fragrance"]
       },
 
       {
          "id": 9,
          "img": "/img-9.jpeg",
-         "name": "PurelySoft Eco Cloths",
-         "ingredients": ["Water", "Rosemary Extract", "Cocamidopropyl PG-Dimonium Chloride Phosphate", "Phenoxyethanol", "Methylparaben"]
-      }
+         "name": "Cottonelle Fresh Care Flushable Wipes",
+         "ingredients": ["Water, Sodium Chloride, Aloe Barbadensis Leaf Juice, Sodium Benoate, Amodimethicone, Sodium Lauryl Glucose Carboxylate, Malic Acid, Polysorbate 20, Lauryl Glucoside, Fragrance/Parfum, Methylisothiazolinone, Sorbic Acid, Propulene Glycol, Tocopheryl Acetate"]
+      },
+      {
+         "id": 10,
+         "img": "/img-1.jpg",
+         "name": "Cottonelle GentlePlus Flushable Wipes",
+         "ingredients": ["Water, Sodium Chloride, Butoxy PEG-4 PG-Amodimethicone, Polysorbate 20, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Sodium Benzoate, Coco-Betaine, Malic Acid, Fragrance, Sodium Citrate, Tocopheryl Acetate"]
+      },
+      {
+         "id": 11,
+         "img": "/img-2.jpg",
+         "name": "The Honest Company Flushable Wipes",
+         "ingredients": ["Water, Trisodium Ethylenediamine Disuccinate, Sodium Benzoate, Sorbitan Oleate Decylglucoside Crosspolymer, Caprylyl Glycol, Ethylhexylglycerin, Citric Acid"]
+      },
+      {
+         "id": 12,
+         "img": "/img-3.jpg",
+         "name": "DUDE Wipes",
+         "ingredients": ["Water, Glycerin, Cocamidopropyl Pg-Dimonium Chloride Phosphate, Sodium Benzoate, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Citric Acid"]
+      },
+      {
+         "id": 13,
+         "img": "/img-4.webp",
+         "name": "Goodwipes Flushable Wipes",
+         "ingredients": ["Purified Water, Glycerin, Benzyl Alcohol, Sodium Citrate, Disodium Cocoamphodiacetate, Aloe Barbadensis, Chamomilla Recutita, Lavandula Angustifolia, Benzoic Acid, Dehydroacetic Acid, Naturally-Derived Hydrosol (Flower Water), Citric Acid, Allantion, Caprylic Capric Triglyceride, Vitamin E"]
+      },
+      {
+         "id": 14,
+         "img": "/img-5.jpg",
+         "name": "Mama Bear Flushable Wipes",
+         "ingredients": ["Water, Aloe Barbadensis Leaf Juice, Decyl Glucoside, Tetrasodium Glutamate Diacetate, Sodium Citrate, Citric Acid, Sodium Bicarbonate, Glycerin, Tocopheryl Acetate, Cucumis Sativus (Cucumber) Fruit Extract, Calendula Officinalis Flower Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Chamomilla Recutita (Matricaria) Flower Extract, Gluconic Acid, Sodium Benzoate"]
+      },
+      {
+         "id": 15,
+         "img": "/img-6.jpg",
+         "name": "Cottonelle Flushable Wipes",
+         "ingredients": ["Water, Sodium Chloride, Butoxy PEG-4 PG-Amodimethicone, Polysorbate 20, Caprylyl Glycol, Sodium Benzoate, Coco-Betaine, Malic Acid, Fragrance, Sodium Citrate"]
+      },
+      {
+         "id": 16,
+         "img": "/img-7.jpg",
+         "name": "Amazon Basics Flushable Wipes",
+         "ingredients": ["Water, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Disodium Cocoamphodiacetate, Citric Acid, Disodium Phosphate, Disodium EDTA, Phenoxyethanol, Sodium Benzoate"]
+      },
+      {
+         "id": 17,
+         "img": "/img-8.png",
+         "name": "Kandoo Flushable Wipes",
+         "ingredients": ["Water, Benzyl alcohol, PEG-40 Hydrogenated castor oil, Lauryl glucoside, Sodium Benzoate, Disodium EDTA, Bis-PEG / PPG-16/16 PEG / PPG 16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Iodopropynyl Butylcarbamate, Citric Acid, Pentadecalactone, Aloe barbadensis leaf juice, Tocopheryl Acetate"]
+      },
+
+      {
+         "id": 18,
+         "img": "/img-9.jpeg",
+         "name": "Kirkland Brand Flushable Wipes",
+         "ingredients": ["Water, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Disodium Cocoamphodiacetate, Polysorbate 20, Fragrance, Citric Acid, Disodium Phosphate, Disodium EDTA, Phenoxyethanol, Sodium Benzoate"]
+      },
+      {
+         "id": 19,
+         "img": "/img-1.jpg",
+         "name": "Caboo Tree Free Flushable Wipes",
+         "ingredients": ["Water, Glycerin, Gluconolactone, Sodium Benzoate, Sodium Citrate, Citric Acid, Aloe Barbadensis Leaf Juice, Tocopherol"]
+      },
+      {
+         "id": 20,
+         "img": "/img-2.jpg",
+         "name": "Cottonelle GentlePlus Flushable Wipes",
+         "ingredients": ["Water, Sodium Chloride, Butoxy PEG-4 PG-Amodimethicone, Polysorbate 20, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Sodium Benzoate, Coco-Betaine, Malic Acid, Fragrance, Sodium Citrate, Tocopheryl Acetate"]
+      },
+      {
+         "id": 21,
+         "img": "/img-3.jpg",
+         "name": "RainbowPana Flushable Wipes",
+         "ingredients": ["Water, Spunlace Nonwoven, Benzalkonium Chloride, Aloe Barbadensis Leaf Extract, Glycerine, Vitamin E"]
+      },
+      {
+         "id": 22,
+         "img": "/img-4.webp",
+         "name": "Charmin Freshmates Flushable Wipes",
+         "ingredients": ["Water, Citric Acid, Sodium Citrate, Sodium Benzoate, Disodium EDTA, Xanthan Gum, PEG-40 Hydrogenated Castor Oil, BIS-PEG/PPG-16, 16 PEG/PPG-16, 16 Dimethicone, Fragrance, Sorbitan Caprylate"]
+      },
+      {
+         "id": 23,
+         "img": "/img-5.jpg",
+         "name": "Simpleaf Flushable Wet Wipes",
+         "ingredients": ["Water, Glycerin, Cocamidopropyl Pg-Dimonium Chloride Phosphate, Sodium Benzoate, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Fragrance, Citric Acid"]
+      },
+      {
+         "id": 24,
+         "img": "/img-6.jpg",
+         "name": "Members Mark Flushable Wipes",
+         "ingredients": ["Water, Cocamidopropyl PG-Dimonium, Chloride Phosphate, Glycerin, Chamomilla Recuttita (Matricaria), Flower Extract, Aloe, Barbadensis Leaf Extract, Tocopheryl, Acetate, Phenoxyethanol, Iodopropynyl Butylcarbamate, Citric Acid, Fragrance"]
+      },
+      {
+         "id": 25,
+         "img": "/img-7.jpg",
+         "name": "Wipe That Tush Flushable Wipes",
+         "ingredients": ["Purified water, aloe barbadensis leaf extract, chamomilla recutita flower extract, vitamin e, decyl glucoside, glycerin, polysorbate 20, citric acid, phenoxyethanol, propylene glycol"]
+      },
+      {
+         "id": 26,
+         "img": "/img-8.png",
+         "name": "Booty Brand Wipes",
+         "ingredients": ["Purified water, aloe barbadensis leaf extract, chamomilla recutita flower extract, vitamin e, decyl glucoside, glycerin, polysorbate 20, citric acid, phenoxyethanol, propylene glycol"]
+      },
+
+      {
+         "id": 27,
+         "img": "/img-9.jpeg",
+         "name": "HAVIT Flushable Wipes",
+         "ingredients": ["Water, 4’Hydroxyacetophenone, Cetylpyridinium Chloride, Citric Acid, Plantago Asiatica Extract"]
+      }    
    ],
    "harmful_ingredients": [
       {
-         "name": "Methylisothiazolinone",
+         "name": "polyethylene terephthalate",
          "description": "Methylisothiazolinone is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
       },
       {
-         "name": "Methylparaben",
+         "name": "high-density polyethylene",
          "description": "Methylparaben is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
       },
       {
-         "name": "Propylparaben",
+         "name": "polyethylene/vinyl acetate",
          "description": "Propylparaben is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
       },
       {
-         "name": "Disodium EDTA",
+         "name": "polypropylene",
          "description": "Disodium EDTA is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
       },
       {
-         "name": "Phenoxyethanol",
+         "name": "low-density polyethylene",
          "description": "Phenoxyethanol is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
       },
       {
-         "name": "Methylchloroisothiazolinone",
+         "name": "expanded polystyrene",
          "description": "Description for Methylchloroisothiazolinone"
+      },
+      {
+         "name": "polyurethane",
+         "description": "Methylisothiazolinone is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+      },
+      {
+         "name": "lotion",
+         "description": "Methylparaben is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
       }
    ]
 }
