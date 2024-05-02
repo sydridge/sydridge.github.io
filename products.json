@@ -4,7 +4,7 @@
          "id": 1,
          "img": "/img-1.jpg",
          "name": "Nolla Flushable Wipes",
-         "ingredients": ["Water, Sodium Benzoate, Polysorbate 20, Capryly Glycol, Ethylhexylglycerin, Dipropylene Glycol, Glycerin, Hexylene Glycol, Citric Acid, Cyclodextrin, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate"]
+         "ingredients": ["Water, Sodium Benzoate, Polysorbate 20, Caprylyl Glycol, Ethylhexylglycerin, Dipropylene Glycol, Glycerin, Hexylene Glycol, Citric Acid, Cyclodextrin, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate"]
       },
       {
          "id": 2,
@@ -22,7 +22,7 @@
          "id": 4,
          "img": "/img-4.webp",
          "name": "Eco by Naty Flushable Wipes",
-         "ingredients": ["Aqua/water, Gluconolacton, Chamomila Recutita Flower Water, Citric Acid, Propanediol, Caprylyl/Capryl Glucoside, Sodium Benzoate, Calcium Gluconate, Potassium Sorbate"]
+         "ingredients": ["Aqua/water, Gluconolacton, Chamomilla Recutita Flower Water, Citric Acid, Propanediol, Caprylyl/Capryl Glucoside, Sodium Benzoate, Calcium Gluconate, Potassium Sorbate"]
       },
       {
          "id": 5,
@@ -53,7 +53,7 @@
          "id": 9,
          "img": "/img-9.jpeg",
          "name": "Cottonelle Fresh Care Flushable Wipes",
-         "ingredients": ["Water, Sodium Chloride, Aloe Barbadensis Leaf Juice, Sodium Benoate, Amodimethicone, Sodium Lauryl Glucose Carboxylate, Malic Acid, Polysorbate 20, Lauryl Glucoside, Fragrance/Parfum, Methylisothiazolinone, Sorbic Acid, Propulene Glycol, Tocopheryl Acetate"]
+         "ingredients": ["Water, Sodium Chloride, Aloe Barbadensis Leaf Juice, Sodium Benzoate, Amodimethicone, Sodium Lauryl Glucose Carboxylate, Malic Acid, Polysorbate 20, Lauryl Glucoside, Fragrance/Parfum, Methylisothiazolinone, Sorbic Acid, Propylene Glycol, Tocopheryl Acetate"]
       },
       {
          "id": 10,
@@ -77,7 +77,7 @@
          "id": 13,
          "img": "/img-13.webp",
          "name": "Goodwipes Flushable Wipes",
-         "ingredients": ["Purified Water, Glycerin, Benzyl Alcohol, Sodium Citrate, Disodium Cocoamphodiacetate, Aloe Barbadensis, Chamomilla Recutita, Lavandula Angustifolia, Benzoic Acid, Dehydroacetic Acid, Naturally-Derived Hydrosol (Flower Water), Citric Acid, Allantion, Caprylic Capric Triglyceride, Vitamin E"]
+         "ingredients": ["Purified Water, Glycerin, Benzyl Alcohol, Sodium Citrate, Disodium Cocoamphodiacetate, Aloe Barbadensis, Chamomilla Recutita, Lavandula Angustifolia, Benzoic Acid, Dehydroacetic Acid, Naturally-Derived Hydrosol (Flower Water), Citric Acid, Allantoin, Caprylic Capric Triglyceride, Vitamin E"]
       },
       {
          "id": 14,
@@ -101,7 +101,7 @@
          "id": 17,
          "img": "/img-17.png",
          "name": "Kandoo Flushable Wipes",
-         "ingredients": ["Water, Benzyl alcohol, PEG-40 Hydrogenated castor oil, Lauryl glucoside, Sodium Benzoate, Disodium EDTA, Bis-PEG / PPG-16/16 PEG / PPG 16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Iodopropynyl Butylcarbamate, Citric Acid, Pentadecalactone, Aloe barbadensis leaf juice, Tocopheryl Acetate"]
+         "ingredients": ["Water, Benzyl alcohol, PEG-40 Hydrogenated castor oil, Lauryl glucoside, Sodium Benzoate, Disodium EDTA, Bis-PEG / PPG-16/16 PEG / PPG 16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Iodopropynyl Butylcarbamate, Citric Acid, Pentadecalactone, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate"]
       },
 
       {
@@ -126,7 +126,7 @@
          "id": 21,
          "img": "/img-21.jpg",
          "name": "RainbowPana Flushable Wipes",
-         "ingredients": ["Water, Spunlace Nonwoven, Benzalkonium Chloride, Aloe Barbadensis Leaf Extract, Glycerine, Vitamin E"]
+         "ingredients": ["Water, Spunlace Nonwoven, Benzalkonium Chloride, Aloe Barbadensis Leaf Extract, Glycerin, Vitamin E"]
       },
       {
          "id": 22,
@@ -156,7 +156,7 @@
          "id": 26,
          "img": "/img-26.png",
          "name": "Booty Brand Wipes",
-         "ingredients": ["Purified water, aloe barbadensis leaf extract, chamomilla recutita flower extract, vitamin e, decyl glucoside, glycerin, polysorbate 20, citric acid, phenoxyethanol, propylene glycol"]
+         "ingredients": ["Purified Water, Aloe Barbadensis Leaf Extract, Chamomilla Recutita Flower Extract, Vitamin E, Decyl Glucoside, Glycerin, Polysorbate 20, Citric Acid, Phenoxyethanol, Propylene Glycol"]
       },
 
       {
