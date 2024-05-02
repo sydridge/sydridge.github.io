@@ -222,15 +222,20 @@
                         const harmfulIngredientsParagraph = document.createElement("p");
                         harmfulIngredientsParagraph.innerHTML = `This item has harmful ingredients: `;
                         const harmfulIngredientsSpan = document.createElement("span");
-                        harmfulIngredientsList.forEach((ingredient) => {
-                           const description = harmfulIngredients.find((item) => item.name === ingredient)?.description || "";
-                           const ingredientElement = document.createElement("span");
-                           ingredientElement.textContent = `${ingredient} `;
-                           ingredientElement.style.cursor = "pointer";
-                           ingredientElement.addEventListener("click", () => {
-                              showPopup(description);
-                           });
-                           harmfulIngredientsSpan.appendChild(ingredientElement);
+                        harmfulIngredientsList.forEach((ingredient, index) => {
+                            const description = harmfulIngredients.find((item) => item.name === ingredient)?.description || "";
+                            const ingredientElement = document.createElement("span");
+                            ingredientElement.textContent = ingredient; // Set ingredient text
+                            ingredientElement.style.cursor = "pointer";
+                            ingredientElement.addEventListener("click", () => {
+                                showPopup(description);
+                            });
+                            harmfulIngredientsSpan.appendChild(ingredientElement);
+                        
+                            // Check if the current ingredient is not the last one in the list
+                            if (index !== harmfulIngredientsList.length - 1) {
+                                harmfulIngredientsSpan.appendChild(document.createTextNode(', ')); // Append a comma and space
+                            }
                         });
                         harmfulIngredientsParagraph.appendChild(harmfulIngredientsSpan);
                         item.appendChild(harmfulIngredientsParagraph);
