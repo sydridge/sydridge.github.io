@@ -20,7 +20,7 @@
       },
       {
          "id": 4,
-         "img": "/img-4.webp",
+         "img": "/img-4.jpg",
          "name": "Eco by Naty Flushable Wipes",
          "ingredients": ["Aqua/water", "Gluconolacton", "Chamomilla Recutita Flower Water", "Citric Acid", "Propanediol", "Caprylyl/Capryl Glucoside", "Sodium Benzoate", "Calcium Gluconate", "Potassium Sorbate"]
       },
@@ -44,14 +44,14 @@
       },
       {
          "id": 8,
-         "img": "/img-8.png",
+         "img": "/img-8.jpg",
          "name": "Charmin Flushable Wipes",
          "ingredients": ["Water", "Citric Acid", "Peg-40 Hydrogenated Castor Oil", "Sodium Citrate", "Sorbitan Caprylate", "Sodium Benzoate", "Disodium Edta", "Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone", "Caprylic/Capric Triglyceride", "Xanthan Gum", "Fragrance"]
       },
 
       {
          "id": 9,
-         "img": "/img-9.jpeg",
+         "img": "/img-9.jpg",
          "name": "Cottonelle Fresh Care Flushable Wipes",
          "ingredients": ["Water", "Sodium Chloride", "Aloe Barbadensis Leaf Juice", "Sodium Benzoate", "Amodimethicone", "Sodium Lauryl Glucose Carboxylate", "Malic Acid", "Polysorbate 20", "Lauryl Glucoside", "Fragrance/Parfum", "Methylisothiazolinone", "Sorbic Acid", "Propylene Glycol", "Tocopheryl Acetate"]
       },
@@ -75,7 +75,7 @@
       },
       {
          "id": 13,
-         "img": "/img-13.webp",
+         "img": "/img-13.jpg",
          "name": "Goodwipes Flushable Wipes",
          "ingredients": ["Purified Water", "Glycerin", "Benzyl Alcohol", "Sodium Citrate", "Disodium Cocoamphodiacetate", "Aloe Barbadensis", "Chamomilla Recutita", "Lavandula Angustifolia", "Benzoic Acid", "Dehydroacetic Acid", "Naturally-Derived Hydrosol (Flower Water)", "Citric Acid", "Allantoin", "Caprylic Capric Triglyceride", "Vitamin E"]
       },
@@ -99,14 +99,14 @@
       },
       {
          "id": 17,
-         "img": "/img-17.png",
+         "img": "/img-17.jpg",
          "name": "Kandoo Flushable Wipes",
          "ingredients": ["Water", "Benzyl alcohol", "PEG-40 Hydrogenated Castor Oil", "Lauryl glucoside", "Sodium Benzoate", "Disodium EDTA", "Bis-PEG / PPG-16/16 PEG / PPG 16/16 Dimethicone", "Caprylic/Capric Triglyceride", "Xanthan Gum", "Iodopropynyl Butylcarbamate", "Citric Acid", "Pentadecalactone", "Aloe Barbadensis Leaf Juice", "Tocopheryl Acetate"]
       },
 
       {
          "id": 18,
-         "img": "/img-18.jpeg",
+         "img": "/img-18.jpg",
          "name": "Kirkland Brand Flushable Wipes",
          "ingredients": ["Water", "Aloe Barbadensis Leaf Juice", "Tocopheryl Acetate", "Disodium Cocoamphodiacetate", "Polysorbate 20", "Fragrance", "Citric Acid", "Disodium Phosphate", "Disodium EDTA", "Phenoxyethanol", "Sodium Benzoate"]
       },
@@ -130,7 +130,7 @@
       },
       {
          "id": 22,
-         "img": "/img-22.webp",
+         "img": "/img-22.jpg",
          "name": "Charmin Freshmates Flushable Wipes",
          "ingredients": ["Water", "Citric Acid", "Sodium Citrate", "Sodium Benzoate", "Disodium EDTA", "Xanthan Gum", "PEG-40 Hydrogenated Castor Oil", "BIS-PEG/PPG-16", "16 PEG/PPG-16", "16 Dimethicone", "Fragrance", "Sorbitan Caprylate"]
       },
@@ -154,14 +154,14 @@
       },
       {
          "id": 26,
-         "img": "/img-26.png",
+         "img": "/img-26.jpg",
          "name": "Booty Brand Wipes",
          "ingredients": ["Purified Water", "Aloe Barbadensis Leaf Extract", "Chamomilla Recutita Flower Extract", "Vitamin E", "Decyl Glucoside", "Glycerin", "Polysorbate 20", "Citric Acid", "Phenoxyethanol", "Propylene Glycol"]
       },
 
       {
          "id": 27,
-         "img": "/img-27.jpeg",
+         "img": "/img-27.jpg",
          "name": "HAVIT Flushable Wipes",
          "ingredients": ["Water", "4’Hydroxyacetophenone", "Cetylpyridinium Chloride", "Citric Acid", "Plantago Asiatica Extract"]
       }    
