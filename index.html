@@ -225,7 +225,7 @@
                         harmfulIngredientsList.forEach((ingredient) => {
                            const description = harmfulIngredients.find((item) => item.name === ingredient)?.description || "";
                            const ingredientElement = document.createElement("span");
-                           ingredientElement.textContent = `${ingredient}`;
+                           ingredientElement.textContent = `${ingredient} `;
                            ingredientElement.style.cursor = "pointer";
                            ingredientElement.addEventListener("click", () => {
                               showPopup(description);
