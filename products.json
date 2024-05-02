@@ -4,62 +4,62 @@
          "id": 1,
          "img": "/img-1.jpg",
          "name": "Nolla Flushable Wipes",
-         "ingredients": ["Water, Sodium Benzoate, Polysorbate 20, Caprylyl Glycol, Ethylhexylglycerin, Dipropylene Glycol, Glycerin, Hexylene Glycol, Citric Acid, Cyclodextrin, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate"]
+         "ingredients": ["Water", "Sodium Benzoate", "Polysorbate 20", "Caprylyl Glycol", "Ethylhexylglycerin", "Dipropylene Glycol", "Glycerin", "Hexylene Glycol", "Citric Acid", "Cyclodextrin", "Aloe Barbadensis Leaf Extract", "Tocopheryl Acetate"]
       },
       {
          "id": 2,
          "img": "/img-2.jpg",
          "name": "Stall Mates Wipes",
-         "ingredients": ["Water, Polysorbate 20, Cucumis Sativus (Cucumber) Fruit Extract, Althaea Officinalis Root Extract, Avena Sativa (Oat) Kernel Extract, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Tocopheryl Acetate, Phenoxyethanol, Caprylyl Glycol"]
+         "ingredients": ["Water", "Polysorbate 20", "Cucumis Sativus (Cucumber) Fruit Extract", "Althaea Officinalis Root Extract", "Avena Sativa (Oat) Kernel Extract", "Aloe Barbadensis Leaf Extract", "Chamomilla Recutita (Matricaria) Flower Extract", "Tocopheryl Acetate", "Phenoxyethanol", "Caprylyl Glycol"]
       },
       {
          "id": 3,
          "img": "/img-3.jpg",
          "name": "Nice 'N Clean Flushable Wipes",
-         "ingredients": ["Water, Dipropylene Glycol, Alcohol Denat., Glycereth-26, Calcium Chloride, Phenoxyethanol, Sodium Benzoate, Polysorbate 20, Fragrance, Lactic Acid, Tetrasodium Glutamate Diacetate, Caprylic/Capric Triglyceride, Sodium Lactate, Coco-Glucoside, Glyceryl Oleate, Tocopheryl Acetate, Sodium Bicarbonate, Aloe Barbadensis Leaf Juice"]
+         "ingredients": ["Water", "Dipropylene Glycol", "Alcohol Denat", "Glycereth-26", "Calcium Chloride", "Phenoxyethanol", "Sodium Benzoate", "Polysorbate 20", "Fragrance", "Lactic Acid", "Tetrasodium Glutamate Diacetate", "Caprylic/Capric Triglyceride", "Sodium Lactate", "Coco-Glucoside", "Glyceryl Oleate", "Tocopheryl Acetate", "Sodium Bicarbonate", "Aloe Barbadensis Leaf Juice"]
       },
       {
          "id": 4,
          "img": "/img-4.webp",
          "name": "Eco by Naty Flushable Wipes",
-         "ingredients": ["Aqua/water, Gluconolacton, Chamomilla Recutita Flower Water, Citric Acid, Propanediol, Caprylyl/Capryl Glucoside, Sodium Benzoate, Calcium Gluconate, Potassium Sorbate"]
+         "ingredients": ["Aqua/water", "Gluconolacton", "Chamomilla Recutita Flower Water", "Citric Acid", "Propanediol", "Caprylyl/Capryl Glucoside", "Sodium Benzoate", "Calcium Gluconate", "Potassium Sorbate"]
       },
       {
          "id": 5,
          "img": "/img-5.jpg",
          "name": "365 Flushable Wipes by Whole Foods",
-         "ingredients": ["Water, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate, Caprylyl/Capryl Glucoside, Glycerin, Benzyl Alcohol, Benzoic Acid, Dehydroacetic Acid, Citric Acid, Sodium Hydroxide, Sodium Chloride, Sodium Carbonate, Potassium Sorbate, Fragrance"]
+         "ingredients": ["Water", "Aloe Barbadensis Leaf Extract", "Tocopheryl Acetate", "Caprylyl/Capryl Glucoside, Glycerin", "Benzyl Alcohol", "Benzoic Acid", "Dehydroacetic Acid", "Citric Acid", "Sodium Hydroxide", "Sodium Chloride", "Sodium Carbonate", "Potassium Sorbate", "Fragrance"]
       },
       {
          "id": 6,
          "img": "/img-6.jpg",
          "name": "Cottonelle Fresh Feel Flushable Wipes",
-         "ingredients": ["Water, Sodium Chloride, Butoxy PEG-4 PG-Amodimethicone, Polysorbate 20, Caprylyl Glycol, Sodium Benzoate, Coco-Betaine, Malic Acid, Fragrance/Parfum, Sodium Citrate"]
+         "ingredients": ["Water", "Sodium Chloride", "Butoxy PEG-4 PG-Amodimethicone", "Polysorbate 20", "Caprylyl Glycol", "Sodium Benzoate", "Coco-Betaine", "Malic Acid", "Fragrance/Parfum", "Sodium Citrate"]
       },
       {
          "id": 7,
          "img": "/img-7.jpg",
          "name": "Amazon Basics Flushable Wipes",
-         "ingredients": ["Water, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Disodium Cocoamphodiacetate, Citric Acid, Disodium Phosphate, Disodium EDTA, Phenoxyethanol, Sodium Benzoate"]
+         "ingredients": ["Water", "Aloe Barbadensis Leaf Juice", "Tocopheryl Acetate", "Disodium Cocoamphodiacetate", "Citric Acid", "Disodium Phosphate", "Disodium EDTA", "Phenoxyethanol", "Sodium Benzoate"]
       },
       {
          "id": 8,
          "img": "/img-8.png",
          "name": "Charmin Flushable Wipes",
-         "ingredients": ["Water, Citric Acid, Peg-40 Hydrogenated Castor Oil, Sodium Citrate, Sorbitan Caprylate, Sodium Benzoate, Disodium Edta, Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Fragrance"]
+         "ingredients": ["Water", "Citric Acid", "Peg-40 Hydrogenated Castor Oil", "Sodium Citrate", "Sorbitan Caprylate", "Sodium Benzoate", "Disodium Edta", "Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone", "Caprylic/Capric Triglyceride", "Xanthan Gum", "Fragrance"]
       },
 
       {
          "id": 9,
          "img": "/img-9.jpeg",
          "name": "Cottonelle Fresh Care Flushable Wipes",
-         "ingredients": ["Water, Sodium Chloride, Aloe Barbadensis Leaf Juice, Sodium Benzoate, Amodimethicone, Sodium Lauryl Glucose Carboxylate, Malic Acid, Polysorbate 20, Lauryl Glucoside, Fragrance/Parfum, Methylisothiazolinone, Sorbic Acid, Propylene Glycol, Tocopheryl Acetate"]
+         "ingredients": ["Water", "Sodium Chloride", "Aloe Barbadensis Leaf Juice", "Sodium Benzoate", "Amodimethicone", "Sodium Lauryl Glucose Carboxylate", "Malic Acid", "Polysorbate 20", "Lauryl Glucoside", "Fragrance/Parfum", "Methylisothiazolinone", "Sorbic Acid", "Propylene Glycol", "Tocopheryl Acetate"]
       },
       {
          "id": 10,
          "img": "/img-10.jpg",
          "name": "Cottonelle GentlePlus Flushable Wipes",
-         "ingredients": ["Water, Sodium Chloride, Butoxy PEG-4 PG-Amodimethicone, Polysorbate 20, Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Sodium Benzoate, Coco-Betaine, Malic Acid, Fragrance, Sodium Citrate, Tocopheryl Acetate"]
+         "ingredients": ["Water", "Sodium Chloride", "Butoxy PEG-4 PG-Amodimethicone", "Polysorbate 20", "Aloe Barbadensis Leaf Juice", "Caprylyl Glycol", "Sodium Benzoate", "Coco-Betaine", "Malic Acid", "Fragrance", "Sodium Citrate", "Tocopheryl Acetate"]
       },
       {
          "id": 11,
