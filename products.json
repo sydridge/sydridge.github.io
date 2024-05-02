@@ -101,7 +101,7 @@
          "id": 17,
          "img": "/img-17.png",
          "name": "Kandoo Flushable Wipes",
-         "ingredients": ["Water, Benzyl alcohol, PEG-40 Hydrogenated castor oil, Lauryl glucoside, Sodium Benzoate, Disodium EDTA, Bis-PEG / PPG-16/16 PEG / PPG 16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Iodopropynyl Butylcarbamate, Citric Acid, Pentadecalactone, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate"]
+         "ingredients": ["Water, Benzyl alcohol, PEG-40 Hydrogenated Castor Oil, Lauryl glucoside, Sodium Benzoate, Disodium EDTA, Bis-PEG / PPG-16/16 PEG / PPG 16/16 Dimethicone, Caprylic/Capric Triglyceride, Xanthan Gum, Iodopropynyl Butylcarbamate, Citric Acid, Pentadecalactone, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate"]
       },
 
       {
@@ -168,36 +168,100 @@
    ],
    "harmful_ingredients": [
       {
-         "name": "polyethylene terephthalate",
-         "description": "Methylisothiazolinone is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+         "name": "Polyethylene",
+         "description": "Polyethylene, often used in wipes for its texture and strength, is a major concern when flushed. This type of plastic is not biodegradable, leading to significant accumulation in sewage systems, where it can contribute to the formation of blockages and fatbergs. In aquatic environments, polyethylene persists, posing risks to marine life through ingestion or entanglement. Additionally, its presence in wastewater systems can severely hinder treatment processes, as it resists breakdown and complicates the removal of contaminants, ultimately impacting water quality and ecosystem health."
       },
       {
-         "name": "high-density polyethylene",
-         "description": "Methylparaben is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+         "name": "Polypropylene",
+         "description": "Polypropylene, commonly found in wipes due to its durability and resistance to moisture, poses significant environmental risks when flushed. This synthetic polymer is not biodegradable, leading to its accumulation in sewage systems where it can contribute to the formation of fatbergs, obstructing the flow of wastewater. When entering aquatic environments, polypropylene can persist for long periods, endangering marine life through ingestion or entanglement. Moreover, its presence complicates wastewater treatment processes, as it does not break down easily, thus hindering the effective management and purification of wastewater."
       },
       {
-         "name": "polyethylene/vinyl acetate",
-         "description": "Propylparaben is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+         "name": "Polyurethane",
+         "description": "Polyurethane, often used in wipes for its durability and flexibility, poses significant challenges when flushed. This synthetic polymer is not biodegradable and can severely impact sewage systems by contributing to blockages and the formation of fatbergs. When polyurethane enters aquatic environments, it persists for a long time, potentially leading to physical hazards for wildlife and disrupting habitats. Furthermore, its presence in wastewater systems complicates the treatment process, as it does not break down easily and can interfere with the efficiency of sewage treatment facilities, ultimately leading to increased maintenance costs and environmental pollution."
       },
       {
-         "name": "polypropylene",
-         "description": "Disodium EDTA is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+         "name": "Lotion",
+         "description": "When lotion-infused wipes are flushed, they can create several environmental and infrastructural issues. Lotions typically contain a mixture of oils, emollients, and sometimes silicones, which are not biodegradable. These substances can coat sewage pipes and contribute to the formation of fatbergs, large blockages that disrupt the flow of wastewater. Additionally, the chemicals in lotions can accumulate in aquatic environments, where they may disrupt the natural balance of ecosystems and harm aquatic life. The presence of these substances in wastewater can also challenge water treatment processes, hindering the breakdown of organic materials and reducing the effectiveness of sewage treatment plants."
       },
       {
-         "name": "low-density polyethylene",
-         "description": "Phenoxyethanol is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+         "name": "Amodimethicone",
+         "description": "Amodimethicone, a non-biodegradable silicone used for its conditioning properties in wipes, poses significant risks when flushed. It contributes to the formation of fatbergs by not breaking down in sewage systems and can interfere with wastewater treatment processes. Additionally, its persistence in the environment can harm aquatic ecosystems. Thus, wipes containing amodimethicone should be disposed of in the trash, not the toilet."
       },
       {
-         "name": "expanded polystyrene",
-         "description": "Description for Methylchloroisothiazolinone"
+         "name": "Butoxy PEG-4 PG-Amodimethicone",
+         "description": "Butoxy PEG-4 PG-Amodimethicone, a silicone derivative used in wipes for its smoothing effects, is hazardous when flushed due to its non-biodegradable nature. It accumulates in water systems, disrupting aquatic life and ecosystem balance, and contributes to blockages in sewage systems, known as fatbergs. Additionally, it can impair sewage treatment facilities by coating internal surfaces, reducing their effectiveness."
       },
       {
-         "name": "polyurethane",
-         "description": "Methylisothiazolinone is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+         "name": "Caprylic/Capric Triglyceride",
+         "description": "Caprylic/Capric Triglyceride, often found in wipes for its moisturizing properties, presents risks when flushed. This ingredient is non-biodegradable oil mixing oils with glycerin, leading to accumulation in sewage systems where it can contribute to the formation of fatbergs, large obstructions that block water flow. Its persistence in water systems can also impact the natural balance of ecosystems, posing a risk to aquatic life. "
       },
       {
-         "name": "lotion",
-         "description": "Methylparaben is a chemical compound commonly utilized as a preservative in cosmetics and personal care products. Its primary function is to prevent the growth of bacteria, mold, and yeast, thereby prolonging the shelf life of various skincare, haircare, makeup, and toiletry items. This compound exhibits broad-spectrum antimicrobial properties, effectively targeting a wide range of microorganisms. Phenoxyethanol is known for its stability across different pH levels and temperatures, making it suitable for use in diverse formulations. While it generally presents a low risk of sensitization or allergic reactions, regulatory agencies have established concentration limits to ensure its safe usage in cosmetic products"
+         "name": "Caprylyl Glycol",
+         "description": "Caprylyl Glycol, used in wipes for its moisturizing and preservative properties, can pose environmental risks when flushed. This ingredient is slowly biodegradable and may persist in water systems, potentially disrupting aquatic ecosystems. It also contributes to the build-up of non-biodegradable material in sewage systems, which can lead to blockages and operational challenges in wastewater treatment facilities."
+      },
+      {
+         "name": "Caprylyl/Capryl Glucoside",
+         "description": "Caprylyl/Capryl Glucoside, a surfactant derived from natural oils and glucose, is problematic when included in flushed wipes. While it helps in cleaning by allowing oil and dirt to mix with water, it is slow to degrade in aquatic environments. Its persistence can adversely affect water quality and harm aquatic life, contributing to ecological imbalance and impacting water treatment processes."
+      },
+      {
+         "name": "Cocamidopropyl PG-Dimonium",
+         "description": "Cocamidopropyl PG-Dimonium, commonly used in wipes for its conditioning and antimicrobial properties, poses significant environmental concerns when flushed. This quaternary ammonium compound is not fully biodegradable and can persist in aquatic environments, leading to potential toxicity for aquatic organisms. Its presence in wastewater can also interfere with microbial activities essential for effective sewage treatment, thereby impacting the efficiency of wastewater treatment plants and contributing to pollution in water bodies."
+      },
+      {
+         "name": "Cocamidopropyl Pg-Dimonium Chloride Phosphate",
+         "description": "CCocamidopropyl Pg-Dimonium Chloride Phosphate, commonly used in wipes for its conditioning and antimicrobial properties, poses significant environmental concerns when flushed. This quaternary ammonium compound is not fully biodegradable and can persist in aquatic environments, leading to potential toxicity for aquatic organisms. Its presence in wastewater can also interfere with microbial activities essential for effective sewage treatment, thereby impacting the efficiency of wastewater treatment plants and contributing to pollution in water bodies."
+      },
+      {
+         "name": "Coco-Betaine",
+         "description": "Coco-Betaine, commonly found in wipes for its foaming and cleansing properties, is problematic when flushed into sewage systems. Although derived from coconut oil, it does not readily biodegrade, potentially leading to accumulation in water systems where it can disrupt aquatic ecosystems. Additionally, its presence in wastewater can contribute to the formation of fatbergs and interfere with the operations of sewage treatment facilities, impairing their ability to effectively process wastewater."
+      },
+      {
+         "name": "Coco-Glucoside",
+         "description": "Coco-Glucoside, a surfactant derived from coconut oil and glucose, used in wipes for its cleansing properties, poses environmental risks when flushed. It is not entirely biodegradable and can accumulate in water systems, potentially disrupting aquatic ecosystems by affecting the health and behavior of aquatic organisms. Moreover, its presence in sewage systems can contribute to blockages and impair the efficiency of wastewater treatment processes, complicating the breakdown of organic materials and overall sewage management."
+      },
+      {
+         "name": "Dipropylene Glycol",
+         "description": "Dipropylene Glycol, commonly included in wipes for its humectant properties, raises environmental concerns when flushed. This synthetic compound is slow to biodegrade, potentially accumulating in aquatic environments where it can adversely affect water quality and disrupt aquatic life. Additionally, its presence in wastewater can hinder the efficiency of sewage treatment processes by interfering with the biological degradation mechanisms essential for effective wastewater management."
+      },
+      {
+         "name": "Ethylhexylglycerin",
+         "description": "Ethylhexylglycerin, used in wipes for its skin conditioning and antimicrobial properties, can be problematic when flushed. While it enhances the preservation of products, it is not fully biodegradable and can accumulate in water systems, potentially leading to environmental pollution. Its persistence in aquatic environments can disrupt the natural microbial balance essential for healthy ecosystems and may adversely affect aquatic organisms. Additionally, Ethylhexylglycerin in wastewater can complicate sewage treatment processes, affecting the breakdown and removal of contaminants."
+      },
+      {
+         "name": "Glycereth-26",
+         "description": "Glycereth-26, commonly included in wipes for its moisturizing properties, poses environmental challenges when flushed. This synthetic polymer is slow to biodegrade and can accumulate in sewage systems, contributing to blockages and the formation of fatbergs. When it enters aquatic environments, it can disrupt water quality and adversely affect the health of aquatic organisms by altering their habitats. Moreover, its presence can also interfere with the normal operations of sewage treatment plants, hindering effective wastewater management."
+      },
+      {
+         "name": "Glycerin",
+         "description": "Glycerin, often used in wipes for its moisturizing properties, presents several issues when flushed. Although it is biodegradable, high concentrations entering sewage systems can disrupt the balance of wastewater treatment processes. Glycerin can accelerate microbial growth in sewage, leading to overconsumption of oxygen and potentially causing problems such as increased biomass and sludge, which complicates water treatment operations. Additionally, when not treated properly, it can lead to higher biological oxygen demand in water bodies, adversely affecting aquatic life by reducing available oxygen."
+      },
+      {
+         "name": "Glyceryl Oleate",
+         "description": "Glyceryl Oleate, used in wipes primarily for its emollient and conditioning properties, can create environmental issues when flushed. This ingredient, while derived from natural sources like vegetable oil, is not completely biodegradable and can accumulate in aquatic environments, potentially disrupting ecosystems by affecting water quality and harming aquatic life. Additionally, its presence in wastewater can contribute to blockages in sewage systems and complicate the treatment processes, affecting the efficiency of water purification efforts."
+      },
+      {
+         "name": "Hexylene Glycol",
+         "description": "Hexylene Glycol, often included in wipes for its solvent and viscosity-decreasing properties, poses environmental concerns when flushed. This chemical is only partially biodegradable and can accumulate in water systems, where it may disrupt aquatic ecosystems by affecting the health and reproduction of aquatic organisms. Furthermore, Hexylene Glycol in wastewater can interfere with the operations of sewage treatment plants by impeding biological processes essential for breaking down organic matter, leading to reduced treatment efficiency and potential system overloads."
+      },
+      {
+         "name": "PEG-40 Hydrogenated Castor Oil",
+         "description": "PEG-40 Hydrogenated Castor Oil, commonly used in wipes for its surfactant and emulsifying properties, is problematic when flushed. As a synthetic polymer, it is slow to biodegrade and can accumulate in sewage systems, contributing to blockages and the formation of fatbergs. Additionally, when this compound enters aquatic environments, it can persist and potentially disrupt water quality and harm aquatic life. Its presence in wastewater systems can also interfere with normal sewage treatment processes, complicating the breakdown and removal of contaminants."
+      },
+            {
+         "name": "Phenoxyethanol",
+         "description": "Phenoxyethanol, used in wipes as a preservative, raises significant environmental concerns when flushed. This compound is not readily biodegradable and can accumulate in aquatic environments, potentially leading to toxic effects on aquatic organisms. In sewage systems, Phenoxyethanol can interfere with the microbial activities that are crucial for effective wastewater treatment, potentially reducing the efficiency of these processes and leading to the buildup of harmful chemicals in water bodies."
+      },
+            {
+         "name": "Sorbitan Caprylate",
+         "description": "Sorbitan Caprylate, commonly used in wipes for its emulsifying and antimicrobial properties, poses environmental risks when flushed. This ingredient is not fully biodegradable and can accumulate in aquatic environments, where it may disrupt water quality and adversely affect aquatic organisms. Additionally, Sorbitan Caprylate can contribute to blockages in sewage systems and impede the efficiency of wastewater treatment processes, complicating the breakdown and removal of other organic materials in the treatment facilities."
+      },
+            {
+         "name": "Spunlace Nonwoven",
+         "description": "Spunlace Nonwoven fabric, commonly used in wipes for its durability and soft texture, presents significant environmental concerns when flushed. This material is not biodegradable and can lead to severe blockages in sewage systems, contributing to the formation of fatbergs. When it enters aquatic environments, it persists, disrupting ecosystems by entangling wildlife and affecting the natural habitats of aquatic organisms. Furthermore, its presence in wastewater systems can interfere with sewage treatment processes, impeding the efficient management and treatment of wastewater."
+      },
+            {
+         "name": "Propylene Glycol",
+         "description": "Propylene Glycol, frequently used in wipes for its humectant and solvent properties, is problematic when flushed. While it is somewhat biodegradable, it can degrade into substances that might still pose environmental hazards. High concentrations entering wastewater systems can disrupt biological treatment processes by inhibiting microbial activity essential for breaking down organic waste. This inhibition can lead to inefficiencies in wastewater treatment plants and potentially contribute to higher levels of environmental pollution in water bodies, affecting aquatic life and water quality."
       }
    ]
 }
