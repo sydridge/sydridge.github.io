@@ -117,6 +117,12 @@
          "ingredients": ["Water" ,"Glycerin", "Gluconolactone", "Sodium Benzoate", "Sodium Citrate", "Citric Acid", "Aloe Barbadensis Leaf Juice", "Tocopherol"]
       },
       {
+         "id": 20,
+         "img": "/img-20.jpg",
+         "name": "Equate Flushable Wipes",
+         "ingredients": ["Water", "Glycerin", "Cocamidopropyl PG-Dimonium Chloride Phosphate", "Sodium Benzoate", "Fragrance", "Citric Acid", "Aloe Barbadensis Leaf Extract", "Chamomilla Recutita (Matricaria) Flower Extract", "Tocopheryl Acetate"]
+      },
+      {
          "id": 21,
          "img": "/img-21.jpg",
          "name": "RainbowPana Flushable Wipes",
